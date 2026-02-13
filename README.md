@@ -16,13 +16,13 @@ Just add the widget and you instantly get a fully working drawing board.
 - 🌈 Multi-color brush support
 - ✨ Smooth curves (Bezier smoothing)
 - ↩️ Undo & Redo
-🧹 Clear canvas
-🧽 Real eraser (transparent pixel removal)
-📏 Adjustable stroke width
-🎛 Controller-based API
-⚡ Realtime rendering (no lag)
-🪟 Transparent background support
-🖼 Export drawing as image (PNG)
+- 🧹 Clear canvas
+- 🧽 Real eraser (transparent pixel removal)
+- 📏 Adjustable stroke width
+- 🎛 Controller-based API
+- ⚡ Realtime rendering (no lag)
+- 🪟 Transparent background support
+- 🖼 Export drawing as image (PNG)
 
 --------------
 
