@@ -12,10 +12,10 @@ Just add the widget and you instantly get a fully working drawing board.
 
 ## ✨ Feature Preview
 
-🖌 Freehand finger drawing
-🌈 Multi-color brush support
-✨ Smooth curves (Bezier smoothing)
-↩️ Undo & Redo
+- 🖌 Freehand finger drawing
+- 🌈 Multi-color brush support
+- ✨ Smooth curves (Bezier smoothing)
+- ↩️ Undo & Redo
 🧹 Clear canvas
 🧽 Real eraser (transparent pixel removal)
 📏 Adjustable stroke width
@@ -30,6 +30,10 @@ Just add the widget and you instantly get a fully working drawing board.
 
 
 
+https://github.com/user-attachments/assets/410c7638-98d5-436f-89a3-44024ccab090
+
+
+
 ------------------
 
 ## 📦 Installation
@@ -39,7 +43,7 @@ Add this to your pubspec.yaml:
 dependencies:
   flutter_picasso:
     git:
-      url: https://github.com/YOUR_GITHUB_USERNAME/flutter_picasso.git
+      url: https://github.com/Excelsior-Technologies-Community/flutter_picasso/tree/stage
 ```
 then run:
 ```
